@@ -1,5 +1,5 @@
-## Python-Tutorial
-###Bienvenidos a mi Tutorial a iniciación de Python 🐍
+# Python-Tutorial
+##Bienvenidos a mi Tutorial a iniciación de Python 🐍
 - Configuración
 - Hola Mundo
 - Variables
@@ -12,4 +12,4 @@
 - Bucles/Loops/Ciclos
 - Funciones
 
-[Enlace al video tutorial](https://www.youtube.com)
+ [Enlace al video tutorial](https://www.youtube.com)
