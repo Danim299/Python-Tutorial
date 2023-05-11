@@ -15,7 +15,9 @@ Bienvenidos a mi Tutorial a iniciación de Python 🐍
 
  [Enlace al video tutorial](https://www.youtube.com)
  
+ ---
  [Ejercicios Python](redirect: Danim299/Python-Exercises)
+ ---
 
 Enlaces de interés
 ---
