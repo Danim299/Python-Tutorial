@@ -1,6 +1,6 @@
 # Python-Tutorial
 Bienvenidos a mi Tutorial a iniciación de Python 🐍
-===
+---
 - Configuración
 - Hola Mundo
 - Variables
