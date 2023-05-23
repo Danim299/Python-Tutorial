@@ -12,6 +12,7 @@ Bienvenidos a mi Tutorial a iniciación de Python 🐍
 - Condicionales
 - Bucles/Loops/Ciclos
 - Funciones
+- Excepciones
 
  [Enlace al video tutorial](https://www.youtube.com)
  
