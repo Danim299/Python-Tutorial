@@ -14,7 +14,7 @@ Bienvenidos a mi Tutorial a iniciación de Python 🐍
 - Funciones
 - Excepciones
 
- [Enlace al video tutorial](https://www.youtube.com)
+ [Enlace al video tutorial](https://www.youtube.com/watch?v=mFnwcMwddjw)
  
 #### Ejercicios de Python [aquí](https://github.com/Danim299/Python-Exercises)
 
